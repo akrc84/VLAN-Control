@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace VLAN_Control
 {
-    public partial class Form1 : Form
+    public partial class VLAN_Control_Form : Form
     {
-        public Form1()
+        public VLAN_Control_Form()
         {
             InitializeComponent();
         }
