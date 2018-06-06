@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<switches>
+	<cisco>
+		<switch name="TVR_L2_01">
+      <type>"catalyst2960X"</type>
+      <IP>"192.168.216.245"</IP>
+      <VLAN_oid>"1.3.6.1.4.1.9.9.68.1.2.2.1.2.101"</VLAN_oid>
+    </switch>
+    <switch name="TVR_L2_02">
+      <type>"catalyst2960S"</type>
+      <IP>"192.168.216.244"</IP>
+      <VLAN_oid>"1.3.6.1.4.1.9.9.68.1.2.2.1.2.101"</VLAN_oid>
+  </switch>
+	</cisco>
+</switches>

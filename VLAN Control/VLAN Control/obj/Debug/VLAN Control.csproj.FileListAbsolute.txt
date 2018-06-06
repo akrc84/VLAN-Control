@@ -1,0 +1,11 @@
+\\rtvslo.si\Osebni\LJU\krc_ales\GitHub\VLAN-Control\VLAN Control\VLAN Control\bin\Debug\VLAN Control.exe.config
+\\rtvslo.si\Osebni\LJU\krc_ales\GitHub\VLAN-Control\VLAN Control\VLAN Control\bin\Debug\VLAN Control.exe
+\\rtvslo.si\Osebni\LJU\krc_ales\GitHub\VLAN-Control\VLAN Control\VLAN Control\bin\Debug\VLAN Control.pdb
+\\rtvslo.si\Osebni\LJU\krc_ales\GitHub\VLAN-Control\VLAN Control\VLAN Control\obj\Debug\VLAN Control.csprojResolveAssemblyReference.cache
+\\rtvslo.si\Osebni\LJU\krc_ales\GitHub\VLAN-Control\VLAN Control\VLAN Control\obj\Debug\VLAN_Control.VLAN_Control_Form.resources
+\\rtvslo.si\Osebni\LJU\krc_ales\GitHub\VLAN-Control\VLAN Control\VLAN Control\obj\Debug\VLAN_Control.Properties.Resources.resources
+\\rtvslo.si\Osebni\LJU\krc_ales\GitHub\VLAN-Control\VLAN Control\VLAN Control\obj\Debug\VLAN Control.csproj.GenerateResource.cache
+\\rtvslo.si\Osebni\LJU\krc_ales\GitHub\VLAN-Control\VLAN Control\VLAN Control\obj\Debug\VLAN Control.csproj.CoreCompileInputs.cache
+\\rtvslo.si\Osebni\LJU\krc_ales\GitHub\VLAN-Control\VLAN Control\VLAN Control\obj\Debug\VLAN Control.exe
+\\rtvslo.si\Osebni\LJU\krc_ales\GitHub\VLAN-Control\VLAN Control\VLAN Control\obj\Debug\VLAN Control.pdb
+\\rtvslo.si\Osebni\LJU\krc_ales\GitHub\VLAN-Control\VLAN Control\VLAN Control\bin\Debug\Db\switch_db.xml

@@ -31,7 +31,9 @@
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.MainTab = new System.Windows.Forms.TabPage();
             this.OptionsTab = new System.Windows.Forms.TabPage();
+            this.main_devices_comboBox = new System.Windows.Forms.ComboBox();
             this.tabControl1.SuspendLayout();
+            this.MainTab.SuspendLayout();
             this.SuspendLayout();
             // 
             // tabControl1
@@ -47,6 +49,7 @@
             // 
             // MainTab
             // 
+            this.MainTab.Controls.Add(this.main_devices_comboBox);
             this.MainTab.Location = new System.Drawing.Point(4, 25);
             this.MainTab.Name = "MainTab";
             this.MainTab.Padding = new System.Windows.Forms.Padding(3);
@@ -65,6 +68,14 @@
             this.OptionsTab.Text = "Options";
             this.OptionsTab.UseVisualStyleBackColor = true;
             // 
+            // main_devices_comboBox
+            // 
+            this.main_devices_comboBox.FormattingEnabled = true;
+            this.main_devices_comboBox.Location = new System.Drawing.Point(40, 30);
+            this.main_devices_comboBox.Name = "main_devices_comboBox";
+            this.main_devices_comboBox.Size = new System.Drawing.Size(121, 24);
+            this.main_devices_comboBox.TabIndex = 0;
+            // 
             // VLAN_Control_Form
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -73,10 +84,11 @@
             this.Controls.Add(this.tabControl1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "VLAN_Control_Form";
             this.Text = "VLAN Control";
             this.tabControl1.ResumeLayout(false);
+            this.MainTab.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -86,6 +98,7 @@
         private System.Windows.Forms.TabControl tabControl1;
         private System.Windows.Forms.TabPage MainTab;
         private System.Windows.Forms.TabPage OptionsTab;
+        private System.Windows.Forms.ComboBox main_devices_comboBox;
     }
 }
 
